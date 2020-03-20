@@ -40,11 +40,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+SQL talks to the database and the database has the data
+
 - [ ] Why do tables need a `primary key`?
+
+It needs a unique id so it can be referenced
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+Foreign Key
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+Bridge Table
 
 ## Minimum Viable Product
 
